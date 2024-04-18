@@ -1,7 +1,8 @@
-import user from "../json/user.json"
-export const profile = () => {
-    <div>
-        <p>Hello World</p>
-    </div>
-
-}
+// import user from "../json/user.json"
+export const Profile = () => {
+    return (
+        <div>
+            <p>Hello World</p>
+        </div>
+    );
+};
