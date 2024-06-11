@@ -1,0 +1,25 @@
+.statistics {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: antiquewhite;
+}
+
+.title {
+    text-align: center;
+}
+
+.statslist {
+    display: flex;
+    list-style-type: none;
+    padding: 0; 
+}
+.item {
+    display: flex;
+    margin: auto;
+    width: 100px;
+    flex-direction: column;
+    text-align: center;
+}
