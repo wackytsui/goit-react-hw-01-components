@@ -5,10 +5,12 @@
     padding: 10px;
     border-radius: 5px;
     background-color: antiquewhite;
+    font-size: 20px;
 }
 
 .title {
     text-align: center;
+    margin: 0;
 }
 
 .statslist {
@@ -18,8 +20,7 @@
 }
 .item {
     display: flex;
-    margin: auto;
-    width: 100px;
+    width: 65px;
     flex-direction: column;
     text-align: center;
 }
