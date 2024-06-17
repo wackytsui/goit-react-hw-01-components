@@ -16,6 +16,7 @@ export const App = () => {
       style={{
         height: '100vh',
         display: 'flex',
+        flexDirection: 'column',
         justifyContent: 'space-around',
         alignItems: 'center',
         fontSize: 40,
